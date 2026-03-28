@@ -1,0 +1,3 @@
+C:\Users\User\Desktop\FrontToBack-SqlConnectionOrm ViewBag ViewData TempData\MentorApp\MentorApp\wwwroot\css\site.css
+C:\Users\User\Desktop\FrontToBack-SqlConnectionOrm ViewBag ViewData TempData\MentorApp\MentorApp\wwwroot\favicon.ico
+C:\Users\User\Desktop\FrontToBack-SqlConnectionOrm ViewBag ViewData TempData\MentorApp\MentorApp\wwwroot\js\site.js
