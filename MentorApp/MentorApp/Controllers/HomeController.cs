@@ -1,14 +1,20 @@
-using MentorApp.Models;
+using MentorApp.Data;
+using MentorApp.ViewModels;
 using Microsoft.AspNetCore.Mvc;
-using System.Diagnostics;
+using Microsoft.EntityFrameworkCore;
 
 namespace MentorApp.Controllers
 {
-    public class HomeController : Controller
+    public class HomeController(MentorAppDbContext context) : Controller
     {
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
         {
-            return View();
+            var slider = await context.Sliders.FirstOrDefaultAsync();
+            HomeVm homeVm = new HomeVm
+            {
+                Slider = slider
+            };
+            return View(homeVm);
         }
     }
 }
