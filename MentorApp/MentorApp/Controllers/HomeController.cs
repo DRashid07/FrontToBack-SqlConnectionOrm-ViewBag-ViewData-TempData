@@ -9,7 +9,17 @@ namespace MentorApp.Controllers
     {
         public async Task<IActionResult> Index()
         {
-            var slider = await context.Sliders.FirstOrDefaultAsync();
+            var slider = default(MentorApp.Models.Slider);
+
+            try
+            {
+                slider = await context.Sliders.AsNoTracking().FirstOrDefaultAsync();
+            }
+            catch
+            {
+                ViewBag.DbError = "Database connection is not available.";
+            }
+
             HomeVm homeVm = new HomeVm
             {
                 Slider = slider

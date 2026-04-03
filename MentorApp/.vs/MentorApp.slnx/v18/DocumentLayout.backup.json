@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\FrontToBack-SqlConnectionOrm ViewBag ViewData TempData\\MentorApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B1FAE2C5-8107-47AA-924A-65CF31742D7B}|MentorApp\\MentorApp.csproj|c:\\users\\user\\desktop\\fronttoback-sqlconnectionorm viewbag viewdata tempdata\\mentorapp\\mentorapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B1FAE2C5-8107-47AA-924A-65CF31742D7B}|MentorApp\\MentorApp.csproj|solutionrelative:mentorapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{EBC00DEB-89A3-B96F-6F6E-3DE5C791638C}|MentorApp\\MentorApp.csproj|c:\\users\\user\\desktop\\fronttoback-sqlconnectionorm viewbag viewdata tempdata\\mentorapp\\mentorapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBC00DEB-89A3-B96F-6F6E-3DE5C791638C}|MentorApp\\MentorApp.csproj|solutionrelative:mentorapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B1FAE2C5-8107-47AA-924A-65CF31742D7B}|MentorApp\\MentorApp.csproj|c:\\users\\user\\desktop\\fronttoback-sqlconnectionorm viewbag viewdata tempdata\\mentorapp\\mentorapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B1FAE2C5-8107-47AA-924A-65CF31742D7B}|MentorApp\\MentorApp.csproj|solutionrelative:mentorapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{EBC00DEB-89A3-B96F-6F6E-3DE5C791638C}|MentorApp\\MentorApp.csproj|c:\\users\\user\\desktop\\fronttoback-sqlconnectionorm viewbag viewdata tempdata\\mentorapp\\mentorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBC00DEB-89A3-B96F-6F6E-3DE5C791638C}|MentorApp\\MentorApp.csproj|solutionrelative:mentorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B1FAE2C5-8107-47AA-924A-65CF31742D7B}|MentorApp\\MentorApp.csproj|c:\\users\\user\\desktop\\fronttoback-sqlconnectionorm viewbag viewdata tempdata\\mentorapp\\mentorapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1FAE2C5-8107-47AA-924A-65CF31742D7B}|MentorApp\\MentorApp.csproj|solutionrelative:mentorapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EBC00DEB-89A3-B96F-6F6E-3DE5C791638C}|MentorApp\\MentorApp.csproj|c:\\users\\user\\desktop\\fronttoback-sqlconnectionorm viewbag viewdata tempdata\\mentorapp\\mentorapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EBC00DEB-89A3-B96F-6F6E-3DE5C791638C}|MentorApp\\MentorApp.csproj|solutionrelative:mentorapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBC00DEB-89A3-B96F-6F6E-3DE5C791638C}|MentorApp\\MentorApp.csproj|c:\\users\\user\\desktop\\fronttoback-sqlconnectionorm viewbag viewdata tempdata\\mentorapp\\mentorapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EBC00DEB-89A3-B96F-6F6E-3DE5C791638C}|MentorApp\\MentorApp.csproj|solutionrelative:mentorapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBC00DEB-89A3-B96F-6F6E-3DE5C791638C}|MentorApp\\MentorApp.csproj|c:\\users\\user\\desktop\\fronttoback-sqlconnectionorm viewbag viewdata tempdata\\mentorapp\\mentorapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EBC00DEB-89A3-B96F-6F6E-3DE5C791638C}|MentorApp\\MentorApp.csproj|solutionrelative:mentorapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBC00DEB-89A3-B96F-6F6E-3DE5C791638C}|MentorApp\\MentorApp.csproj|c:\\users\\user\\desktop\\fronttoback-sqlconnectionorm viewbag viewdata tempdata\\mentorapp\\mentorapp\\mentorapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EBC00DEB-89A3-B96F-6F6E-3DE5C791638C}|MentorApp\\MentorApp.csproj|solutionrelative:mentorapp\\mentorapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBC00DEB-89A3-B96F-6F6E-3DE5C791638C}|MentorApp\\MentorApp.csproj|c:\\users\\user\\desktop\\fronttoback-sqlconnectionorm viewbag viewdata tempdata\\mentorapp\\mentorapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EBC00DEB-89A3-B96F-6F6E-3DE5C791638C}|MentorApp\\MentorApp.csproj|solutionrelative:mentorapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,37 +38,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\FrontToBack-SqlConnectionOrm ViewBag ViewData TempData\\MentorApp\\MentorApp\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "MentorApp\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\FrontToBack-SqlConnectionOrm ViewBag ViewData TempData\\MentorApp\\MentorApp\\appsettings.Development.json",
+              "RelativeToolTip": "MentorApp\\appsettings.Development.json",
+              "ViewState": "AgIAAAgAAAAAAAAAAABBwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-03T18:50:00.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MentorApp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\FrontToBack-SqlConnectionOrm ViewBag ViewData TempData\\MentorApp\\MentorApp\\MentorApp.csproj",
+              "RelativeDocumentMoniker": "MentorApp\\MentorApp.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\FrontToBack-SqlConnectionOrm ViewBag ViewData TempData\\MentorApp\\MentorApp\\MentorApp.csproj",
+              "RelativeToolTip": "MentorApp\\MentorApp.csproj",
+              "ViewState": "AgIAAAkAAAAAAAAAAABBwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-03T18:49:47.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\FrontToBack-SqlConnectionOrm ViewBag ViewData TempData\\MentorApp\\MentorApp\\appsettings.json",
+              "RelativeDocumentMoniker": "MentorApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\FrontToBack-SqlConnectionOrm ViewBag ViewData TempData\\MentorApp\\MentorApp\\appsettings.json",
+              "RelativeToolTip": "MentorApp\\appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-03T18:21:16.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\FrontToBack-SqlConnectionOrm ViewBag ViewData TempData\\MentorApp\\MentorApp\\Program.cs",
+              "RelativeDocumentMoniker": "MentorApp\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\FrontToBack-SqlConnectionOrm ViewBag ViewData TempData\\MentorApp\\MentorApp\\Program.cs",
+              "RelativeToolTip": "MentorApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T18:06:08.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\FrontToBack-SqlConnectionOrm ViewBag ViewData TempData\\MentorApp\\MentorApp\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "MentorApp\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\User\\Desktop\\FrontToBack-SqlConnectionOrm ViewBag ViewData TempData\\MentorApp\\MentorApp\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "MentorApp\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJQBAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAIBJwJsBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-03-28T16:56:41.005Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\FrontToBack-SqlConnectionOrm ViewBag ViewData TempData\\MentorApp\\MentorApp\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "MentorApp\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\FrontToBack-SqlConnectionOrm ViewBag ViewData TempData\\MentorApp\\MentorApp\\Controllers\\HomeController.cs",
               "RelativeToolTip": "MentorApp\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-28T16:55:49.57Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\FrontToBack-SqlConnectionOrm ViewBag ViewData TempData\\MentorApp\\MentorApp\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "MentorApp\\Views\\Shared\\_Layout.cshtml",
@@ -60,8 +128,7 @@
               "RelativeToolTip": "MentorApp\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAJgAAAAAAAAAAAAmwLIAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-28T16:54:17.812Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-28T16:54:17.812Z"
             }
           ]
         }

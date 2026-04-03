@@ -7,17 +7,24 @@
     var slider = Model.Slider;
 }
 
+@if (ViewBag.DbError is string dbError)
+{
+    <div class="alert alert-warning m-3" role="alert">
+        @dbError
+    </div>
+}
+
 
 <!-- Hero Section -->
 <section id="hero" class="hero section dark-background">
 
-    <img src="~/assets/img/@slider.ImageUrl" alt="" data-aos="fade-in">
+    <img src="~/assets/img/@(slider?.ImageUrl ?? "about.jpg")" alt="" data-aos="fade-in">
 
     <div class="container">
-        <h2 data-aos="fade-up" data-aos-delay="100">@Html.Raw(slider.Title)</h2>
-        <p data-aos="fade-up" data-aos-delay="200">@slider.Desc</p>
+        <h2 data-aos="fade-up" data-aos-delay="100">@Html.Raw(slider?.Title ?? "Welcome")</h2>
+        <p data-aos="fade-up" data-aos-delay="200">@(slider?.Desc ?? "Database connection problem. Please check SQL Server settings.")</p>
         <div class="d-flex mt-4" data-aos="fade-up" data-aos-delay="300">
-            <a href="@slider.ButtonLink" class="btn-get-started">Get Started</a>
+            <a href="@(slider?.ButtonLink ?? "#")" class="btn-get-started">Get Started</a>
         </div>
     </div>
 
